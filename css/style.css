@@ -97,3 +97,13 @@ p {
 .lista {
   margin-bottom: 20px;
 }
+
+.form {
+  margin-top: 1.5rem;
+  text-align: center;
+}
+
+.form img {
+  width: 5%;
+  margin-left: 1.4rem;
+}
